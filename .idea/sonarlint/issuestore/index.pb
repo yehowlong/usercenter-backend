@@ -41,3 +41,17 @@ k
 Rsrc/main/java/com/howlong/usercenter/model/domain/request/UserRegisterRequest.java,d\4\d403aad5b85ecac9f4a58894d3fed0a1f5b64c27
 m
 =src/main/java/com/howlong/usercenter/service/UserService.java,7\c\7cef8fcefafcbb4096ffe1f812e5f092589a881b
+U
+%.mvn/wrapper/maven-wrapper.properties,3\2\32e074f71d16c1e88ac02aa83592ca6ad1fd98a8
+4
+mvnw,5\d\5d837c4ed85ecaaf932c506e80ff5d7b9f3d590d
+8
+mvnw.cmd,1\f\1f1763f358c257ea3515417352b82b0165647ad1
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+t
+Dsrc/test/java/com/howlong/usercenter/UserCenterApplicationTests.java,5\e\5e4faf12177120c782d6a373ef333f7ccff4c49b
+q
+Asrc/test/java/com/howlong/usercenter/service/UserServiceTest.java,1\1\11f3a4dab99b4a9ccb1cbfe848a8617068c061b0
